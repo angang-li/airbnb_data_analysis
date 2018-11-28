@@ -1,1 +1,11 @@
 .ipynb_checkpoints
+.DS_Store
+data/
+data_cleaning.ipynb
+*.html
+temp/
+text.ipynb
+*.npy
+*.csv
+*.gz
+*.geojson
