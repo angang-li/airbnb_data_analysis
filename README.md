@@ -13,7 +13,7 @@
 
 ## Installation
 
-The code was developed using the Anaconda distribution of Python, versions 3.
+The code was developed using the Anaconda distribution of Python, versions 3. Python libraries used are `numpy`, `pandas`, `datetime`, `matplotlib`, `seaborn`, `sklearn`, `scipy`, `statsmodels`, `random`, `PIL`, `requests`, `collections`, and `pickle`.
 
 ## Background
 
